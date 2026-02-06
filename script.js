@@ -202,8 +202,8 @@ ctx.fillRect(0, 0, cnvs.width, cnvs.height);
 ctx.fillStyle = "#f00";
 ctx.textAlign = "center";
 ctx.textBaseline = "middle";
-ctx.font = "bold 56px Arial";
-ctx.fillText("2026", cnvs.width * 0.5, cnvs.height * 0.5);
+ctx.font = "bold 40px Arial";
+ctx.fillText("AMMU", cnvs.width * 0.5, cnvs.height * 0.5);
 var tex2020 = new THREE.CanvasTexture(cnvs);
 /////////////////////////////////////////////////////////////////
 
